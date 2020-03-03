@@ -13,7 +13,14 @@ For this project our task was to plot earthquake data downloaded from the USGS E
 For this report I will be doing the following:
 </p>
 <b>1. Plot earthquake magnitude vs time on a scatter plot.</b><br>
-<img alt="MagVsTime?" src=Images/fig1.PNG>Figure 1.<br>
+<table style="width:100%">
+  <tr>
+    <th><img width="50%" height="50%" alt="Aug 24th?" src=Images/fig1.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 1.</td>
+  </tr>
+</table>
 <b>2. Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes:</b><br>
 <br>
 An Interactive map of the data can be found here: <a href="https://carpetmat.github.io/Project3/TimedGeojson.html" target="_blank">Link</a><br>
@@ -40,7 +47,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <b>4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?</b><br>
 <table style="width:100%">
   <tr>
-    <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig2.PNG><br></th>
+    <th><img width="50%" height="50%" alt="Aug 24th?" src=Images/fig2.PNG><br></th>
   </tr>
   <tr>
     <td>Figure 2.</td>
