@@ -54,6 +54,16 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br>
 <img width="25%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br>
 <img width="25%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br>
-
+<table style="width:100%">
+  <tr>
+    <th><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
+  </tr>
+  <tr>
+    <td><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br></td>
+  </tr>
+  <tr>
+    <td><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br></td>
+  </tr>
+</table>
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
