@@ -1,7 +1,28 @@
 # Project3
-<body class="c9"><p class="c2"><span class="c0">Mat Pearce</span></p><p class="c2"><span class="c0">BME 450</span></p><p class="c2"><span class="c0">3/2/2020</span></p><p class="c2"><span class="c0">Intro to Ocean Engineering</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c7"><span class="c0">Project 3: Plate Tectonics Report</span></p><p class="c3"><span class="c0"></span></p><p class="c4"><span class="c0">For this project our task was to plot earthquake data downloaded from the USGS Earthquake catalog. The earthquakes to be included in the dataset will cover the region around the Juan De Fuca plate specifically, with magnitudes of 2.5 or higher.</span></p><p class="c3"><span class="c0"></span></p><p class="c4"><span class="c0">For this report I will be doing the following:</span></p><ol class="c5 lst-kix_4xpi0kjlq9vb-0 start" start="1"><li class="c4 c6"><span class="c0">Plot earthquake magnitude vs time on a scatter plot.</span></li><li class="c4 c6"><span class="c0">Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes.</span></li><li class="c4 c6"><span class="c0">Answer these questions:</span></li></ol><ol class="c5 lst-kix_4xpi0kjlq9vb-1 start" start="1"><li class="c1"><span class="c0">Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?</span></li><li class="c1"><span class="c0">What is the range of earthquake size (magnitude) in this data?</span></li><li class="c1"><span class="c0">What is the average earthquake size in this area?</span></li><li class="c1"><span class="c0">Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?</span></li></ol><ol class="c5 lst-kix_4xpi0kjlq9vb-0" start="4"><li class="c4 c6"><span class="c0">Identify a divergent boundary and a transform boundary on the map and answer this question:</span></li></ol><ol class="c5 lst-kix_4xpi0kjlq9vb-1 start" start="1"><li class="c1"><span class="c0">What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</span></li></ol></body>
 
 <img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>
 https://carpetmat.github.io/Project3/TimedGeojson.html<br>
 https://carpetmat.github.io/Project3/Heatmap.html<br>
 https://carpetmat.github.io/Project3/CrossFilter.html<br>
+
+Mat Pearce<br>
+BME 450<br>
+3/2/2020<br>
+Intro to Ocean Engineering<br>
+<br>
+Project 3: Plate Tectonics Report<br>
+<br>
+<p>
+For this project our task was to plot earthquake data downloaded from the USGS Earthquake catalog. The earthquakes to be included in the dataset will cover the region around the Juan De Fuca plate specifically, with magnitudes of 2.5 or higher.
+</p>
+
+For this report I will be doing the following:
+Plot earthquake magnitude vs time on a scatter plot.
+Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes.
+Answer these questions:
+Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?
+What is the range of earthquake size (magnitude) in this data?
+What is the average earthquake size in this area?
+Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
+Identify a divergent boundary and a transform boundary on the map and answer this question:
+What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
