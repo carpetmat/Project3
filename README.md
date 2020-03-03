@@ -39,7 +39,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 
 <b>4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?</b><br>
 
-<img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>Figure 2.
+<img width="50%" height="50%" alt="Aug 24th?" src=Images/2015_04.PNG>Figure 2.
 <br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?</b><br>
@@ -51,6 +51,8 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <br><p> Platenames and plate boundaries are identified by mousing over the boundaries in the interactive map. Please note the crossfilter interactive map does not have this feature. Plate names are disabled by default, but can be enabled via the maps layer controls in the top right corner.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
+<img width="50%" height="50%" alt="Aug 24th?" src=Images/2015_04.PNG>Figure 3.
+<img width="50%" height="50%" alt="Aug 24th?" src=Images/2015_04.PNG>Figure 4.
 
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
