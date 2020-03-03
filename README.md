@@ -12,6 +12,7 @@ For this project our task was to plot earthquake data downloaded from the USGS E
 </p>
 <p>
 For this report I will be doing the following:
+</p>
 1) Plot earthquake magnitude vs time on a scatter plot.
 2) Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes.
 3) Answer these questions:
@@ -21,7 +22,7 @@ What is the average earthquake size in this area?
 Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to?
 Identify a divergent boundary and a transform boundary on the map and answer this question:
 What kind of patterns in earthquake magnitude and location you observe over time along each boundary?
-</p>
+
 
 <img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>
 https://carpetmat.github.io/Project3/TimedGeojson.html<br>
