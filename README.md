@@ -33,7 +33,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>Figure 2.
 <br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?</b><br>
-<br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
+<br><p>These earthquakes are likely linked to the erruption of the Axial Seamount Volcano [1]. Which can be seen as a pin point on the map in figure 2. Interestingly the erruption was not caused by a earthquake near the volcano, but a distance away, along the plate boundary it sits on top of.</p><br>
 <b>5. Identify a divergent boundary and a transform boundary on the map and answer this question:</b><br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
 
