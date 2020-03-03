@@ -15,7 +15,7 @@ For this report I will be doing the following:
 1.Plot earthquake magnitude vs time on a scatter plot.<br>
 2.Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes:<br>
 3.Answer these questions:<br>
-&nbsp;Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?<br>
       Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area?<br>
 ...What is the range of earthquake size (magnitude) in this data?<br>
 ...What is the average earthquake size in this area?<br>
