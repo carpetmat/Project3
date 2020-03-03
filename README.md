@@ -13,8 +13,9 @@ For this project our task was to plot earthquake data downloaded from the USGS E
 For this report I will be doing the following:
 </p>
 1. Plot earthquake magnitude vs time on a scatter plot.<br>
-<img alt="Did it work?" src=Images/magvsdate.PNG>
+<img alt="MagVsTime?" src=Images/magvsdate.PNG>
 2. Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes:<br>
+An Interactive map of the plots can be found<a href="https://carpetmat.github.io/Project3/TimedGeojson.html" target="_blank">here.</a> 
 3. Answer these questions:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?<br>
