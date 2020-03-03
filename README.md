@@ -20,7 +20,7 @@ An Interactive map of the data can be found here: <a href="https://carpetmat.git
 An heat map of the data can be found here: <a href="https://carpetmat.github.io/Project3/Heatmap.html" target="_blank">Link</a><br>
 An interactive crossfiltered map of the data can be found here: <a href="https://carpetmat.github.io/Project3/CrossFilter.html" target="_blank">Link</a><br>
 <br>
-3<b>. Answer these questions:</b><br>
+<b>3. Answer these questions:</b><br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?</b><br><br>
 <br><p>This geological area is over the western edge of the united states, in which there are several known plate boundaries.</p><br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?</b><br>
@@ -35,6 +35,9 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?</b><br>
 <br><p>These earthquakes are likely linked to the erruption of the Axial Seamount Volcano [1]. Which can be seen as a pin point on the map in figure 2. Interestingly the erruption was not caused by a earthquake near the volcano, but a distance away, along the plate boundary it sits on top of.</p><br>
 <b>5. Identify a divergent boundary and a transform boundary on the map and answer this question:</b><br>
+
+<br><p>These earthquakes are likely linked to the erruption of the Axial Seamount Volcano [1]. Which can be seen as a pin point on the map in figure 2. Interestingly the erruption was not caused by a earthquake near the volcano, but a distance away, along the plate boundary it sits on top of.</p><br>
+
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
 
 ## References:
