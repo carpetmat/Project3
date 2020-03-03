@@ -38,8 +38,14 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <br><p>The average earthquake magnitude is: 3.2. Though this is heavily influenced by our data limits.</p><br>
 
 <b>4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?</b><br>
-
-<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig2.PNG>Figure 2.
+<table style="width:100%">
+  <tr>
+    <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig2.PNG><br></th>
+  </tr>
+  <tr>
+    <td>Figure 2.</td>
+  </tr>
+</table>
 <br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?</b><br>
