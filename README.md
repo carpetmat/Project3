@@ -51,9 +51,9 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <br><p> Platenames and plate boundaries are identified by mousing over the boundaries in the interactive map. Please note the crossfilter interactive map does not have this feature. Plate names are disabled by default, but can be enabled via the maps layer controls in the top right corner.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
-<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig3.PNG>Figure 3.
-<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig4.PNG>Figure 4.
-<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig5.PNG>Figure 5.
+<img width="75%" height="75%" alt="Aug 24th?" src=Images/fig3.PNG>Figure 3.
+<img width="75%" height="75%" alt="Aug 24th?" src=Images/fig4.PNG>Figure 4.
+<img width="75%" height="75%" alt="Aug 24th?" src=Images/fig5.PNG>Figure 5.
 
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
