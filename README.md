@@ -13,7 +13,7 @@ For this project our task was to plot earthquake data downloaded from the USGS E
 For this report I will be doing the following:
 </p>
 <b>1. Plot earthquake magnitude vs time on a scatter plot.</b><br>
-<img alt="MagVsTime?" src=Images/magvsdate.PNG>Figure 1.<br>
+<img alt="MagVsTime?" src=Images/fig1.PNG>Figure 1.<br>
 <b>2. Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes:</b><br>
 <br>
 An Interactive map of the data can be found here: <a href="https://carpetmat.github.io/Project3/TimedGeojson.html" target="_blank">Link</a><br>
@@ -39,7 +39,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 
 <b>4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?</b><br>
 
-<img width="50%" height="50%" alt="Aug 24th?" src=Images/2015_04.PNG>Figure 2.
+<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig2.PNG>Figure 2.
 <br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?</b><br>
@@ -53,6 +53,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
 <img width="50%" height="50%" alt="Aug 24th?" src=Images/fig3.PNG>Figure 3.
 <img width="50%" height="50%" alt="Aug 24th?" src=Images/fig4.PNG>Figure 4.
+<img width="50%" height="50%" alt="Aug 24th?" src=Images/fig5.PNG>Figure 5.
 
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
