@@ -76,5 +76,6 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
     <td>Figure 5.</td>
   </tr>
 </table>
+
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
