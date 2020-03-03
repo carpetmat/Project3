@@ -1,4 +1,8 @@
 # Project3
+
+# Colab Link
+https://colab.research.google.com/drive/1IRHBQ5YVjWJhCRm-XFzVzNnmz5DRKrRa
+# Report
 Mat Pearce<br>
 BME 450<br>
 3/2/2020<br>
@@ -72,8 +76,8 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
   </tr>
   <tr>
     <td>Figure 3. (All Magnitudes)</td>
-    <td>Figure 4.(Magnitudes > 5)</td>
-    <td>Figure 5.(Magnitudes < 3.5)</td>
+    <td>Figure 4. (Magnitudes > 5)</td>
+    <td>Figure 5. (Magnitudes < 3.5)</td>
   </tr>
 </table>
 
