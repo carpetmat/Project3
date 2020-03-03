@@ -47,7 +47,7 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <b>4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?</b><br>
 <table style="width:100%">
   <tr>
-    <th><img width="50%" height="50%" alt="Aug 24th?" src=Images/fig2.PNG><br></th>
+    <th><img width="60%" height="50%" alt="Aug 24th?" src=Images/fig2.PNG><br></th>
   </tr>
   <tr>
     <td>Figure 2.</td>
@@ -76,6 +76,8 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
     <td>Figure 5.</td>
   </tr>
 </table>
+
+<br><p> Examining figures 3, 4, and 5, we can see earthquakes sorted by magnitude ranges. Interestingly at the lower end of the Jaun De Fuca plate is a triple point of three different boundary points. This location seems to exhibit a large number of low magnitude quakes. While the top edge, at the meeting of a divergent and convergent boundary appears to exhibit a greater number of higher magnitude quakes. Meanwhile very few earthquakes seem to appear along convergent boundary between the Jaun De Fuca and North American plate, instead appearing much further inland.</p><br>
 
 ## References:
 1. Ooistaff, “OOI Team First to See April 24, 2015 Eruption of Axial Seamount,” Ocean Observatories Initiative, 29-May-2019. [Online]. Available: https://ooi-website.whoi.edu/2015/07/ooi-team-first-to-see-april-24-2015-eruption-of-axial-seamount/. [Accessed: 03-Mar-2020].
