@@ -30,9 +30,10 @@ For this report I will be doing the following:
 &nbsp;&nbsp;&nbsp;&nbsp;• What is the average earthquake size in this area?<br>
 <br><p>The average earthquake magnitude is: 3.2. Though this is heavily influenced by our data limits.</p><br>
 4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?<br>
-<img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>
-<br><p>There are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
+<img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>Figure 2.
+<br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?<br>
+<br><p>As seen above in figure 2, there are a large number of relatively high magnitude earthquakes in in April of 2015. All taking place along the divergent boundary between the Jaun De Fuca and Pacific plates.</p><br>
 5. Identify a divergent boundary and a transform boundary on the map and answer this question:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?<br>
 
