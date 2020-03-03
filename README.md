@@ -22,17 +22,13 @@ For this report I will be doing the following:
 <br>
 3. Answer these questions:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br><br>
-<br><p>I am able to observe the earthquake data over an area where several plates meet. The area surrounding the Juan De Fuca plate exhibit all three types of plate boundaries.</p><br>
+<br><p>This geological area is over the western edge of the united states, in which there are several known plate boundaries.</p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?<br>
-<br><p>words</p><br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br>
-<br><p>words</p><br>
-&nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?<br>
-<br><p>words</p><br>
+<br><p>Several plates meet around the Juan De Fuca plate and all three types of plate boundaries exist in this area.</p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• What is the range of earthquake size (magnitude) in this data?<br>
-<br><p>words</p><br>
+<br><p>Magnitudes 2.5 to 6.8.</p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;• What is the average earthquake size in this area?<br>
-<br><p>words</p><br>
+<br><p>The average earthquake magnitude is: 3.2. Though this is heavily influenced by our data limits.</p><br>
 4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• What event can you link these earthquakes to?<br>
 5. Identify a divergent boundary and a transform boundary on the map and answer this question:<br>
@@ -40,4 +36,3 @@ For this report I will be doing the following:
 
 
 <img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>
-https://carpetmat.github.io/Project3/CrossFilter.html<br>
