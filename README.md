@@ -20,6 +20,7 @@ For this report I will be doing the following:
 <br>
 3. Answer these questions:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br>
+<p>I am able to observe the earthquake data over an area where several plates meet.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Why do you see most of the earthquakes in that area?<br>
