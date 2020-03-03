@@ -16,8 +16,9 @@ For this report I will be doing the following:
 <img alt="MagVsTime?" src=Images/magvsdate.PNG>Figure 1.<br>
 2. Show earthquake locations and magnitudes on a map. I will use both color and radius of a circle to reflect the relative magnitudes:<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;An Interactive map of the plots can be found here: <a href="https://carpetmat.github.io/Project3/TimedGeojson.html" target="_blank">Link</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;An heat map of the plots can be found here: <a href="https://carpetmat.github.io/Project3/Heatmap.html" target="_blank">Link</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;An Interactive map of the data can be found here: <a href="https://carpetmat.github.io/Project3/TimedGeojson.html" target="_blank">Link</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;An heat map of the data can be found here: <a href="https://carpetmat.github.io/Project3/Heatmap.html" target="_blank">Link</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;An interactive crossfiltered map of the data can be found here: <a href="https://carpetmat.github.io/Project3/CrossFilter.html" target="_blank">Link</a><br>
 <br>
 3. Answer these questions:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• Across what geographic area are you able to observe earthquake data in this map?<br><br>
@@ -39,6 +40,4 @@ For this report I will be doing the following:
 
 
 <img width="50%" height="50%" alt="Did it work?" src=Images/2015_04.PNG>
-https://carpetmat.github.io/Project3/TimedGeojson.html<br>
-https://carpetmat.github.io/Project3/Heatmap.html<br>
 https://carpetmat.github.io/Project3/CrossFilter.html<br>
