@@ -51,14 +51,11 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <br><p> Platenames and plate boundaries are identified by mousing over the boundaries in the interactive map. Please note the crossfilter interactive map does not have this feature. Plate names are disabled by default, but can be enabled via the maps layer controls in the top right corner.</p><br>
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;• What kind of patterns in earthquake magnitude and location you observe over time along each boundary?</b><br>
-<img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br>
-<img width="25%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br>
-<img width="25%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br>
-<table style="width:100%">
+<table style="width:50%">
   <tr>
-    <th><img width="50%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
-    <th><img width="50%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br></th>
-    <th><img width="50%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br></th>
+    <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
+    <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br></th>
+    <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br></th>
   </tr>
 </table>
 ## References:
