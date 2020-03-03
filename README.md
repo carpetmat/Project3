@@ -21,7 +21,7 @@ For this report I will be doing the following:
 &nbsp;&nbsp;&nbsp;&nbsp;Why do you see most of the earthquakes in that area?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;What is the range of earthquake size (magnitude) in this data?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;What is the average earthquake size in this area?<br>
-4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?
+4. Map the earthquakes in April 2015. Where are those earthquakes mostly located?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;What event can you link these earthquakes to?<br>
 5. Identify a divergent boundary and a transform boundary on the map and answer this question:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;What kind of patterns in earthquake magnitude and location you observe over time along each boundary?<br>
