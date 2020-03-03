@@ -57,12 +57,8 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
 <table style="width:100%">
   <tr>
     <th><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
-  </tr>
-  <tr>
-    <td><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig4.PNG><br></td>
-  </tr>
-  <tr>
-    <td><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br></td>
+    <th><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
+    <th><img width="25%" height="25%" alt="Aug 24th?" src=Images/fig3.PNG><br></th>
   </tr>
 </table>
 ## References:
