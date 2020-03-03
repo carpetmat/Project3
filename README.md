@@ -15,7 +15,7 @@ For this report I will be doing the following:
 <b>1. Plot earthquake magnitude vs time on a scatter plot.</b><br>
 <table style="width:100%">
   <tr>
-    <th><img width="50%" height="50%" alt="Aug 24th?" src=Images/fig1.PNG><br></th>
+    <th><img width="100%" height="50%" alt="Aug 24th?" src=Images/fig1.PNG><br></th>
   </tr>
   <tr>
     <td>Figure 1.</td>
