@@ -71,9 +71,9 @@ An interactive crossfiltered map of the data can be found here: <a href="https:/
     <th><img width="60%" height="25%" alt="Aug 24th?" src=Images/fig5.PNG><br></th>
   </tr>
   <tr>
-    <td>Figure 3.</td>
-    <td>Figure 4.</td>
-    <td>Figure 5.</td>
+    <td>Figure 3. (All Magnitudes)</td>
+    <td>Figure 4.(Magnitudes > 5)</td>
+    <td>Figure 5.(Magnitudes < 3.5)</td>
   </tr>
 </table>
 
